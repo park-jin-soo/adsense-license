@@ -1,0 +1,12 @@
+{
+  "users": {
+    "HWID_TEST123": {
+      "name": "테스트유저",
+      "expire_date": "2025-12-31",
+      "status": "active",
+      "created_date": "2025-01-25"
+    }
+  },
+  "last_updated": "2025-01-25 14:30:00",
+  "total_users": 1
+}
