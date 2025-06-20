@@ -5,20 +5,8 @@
       "expire_date": "2025-08-21",
       "status": "active",
       "created_date": "2025-06-20"
-    },
-    "user123": {
-      "name": "김철수",
-      "expire_date": "2025-07-15",
-      "status": "active", 
-      "created_date": "2025-06-10"
-    },
-    "blogger_kim": {
-      "name": "블로거김",
-      "expire_date": "2025-09-30",
-      "status": "active",
-      "created_date": "2025-06-01"
     }
   },
   "last_updated": "2025-06-20 14:30:00",
-  "total_users": 3
+  "total_users": 1
 }
